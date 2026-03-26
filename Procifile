@@ -1,0 +1,1 @@
+Web:uvicorn Trip_Final:app --host 0.0.0.0 --port $PORT
